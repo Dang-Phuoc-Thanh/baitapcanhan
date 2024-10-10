@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    tools:context=".fragment_info.Fragment_tab1">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+
+
+            android:text="Quãng Ngãi quê tôi"
+            android:textStyle="bold"
+
+
+            android:textSize="40sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Quảng Ngãi là một tỉnh ven biển nằm ở phía bắc vùng Duyên hải Nam Trung Bộ, miền Trung Việt Nam."
+
+            android:layout_gravity="center"
+            android:textSize="27sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:text="Diện tích:5.133,54 km²"
+
+            android:textSize="27sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dân số: Khoảng 1.356.692 người (năm 2022)."
+
+
+            android:textSize="27sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Du lịch: Quảng Ngãi có nhiều điểm du lịch hấp dẫn như đảo Lý Sơn, núi Thiên Ấn, thác Trắng Minh Long, và đồng muối Sa Huỳnh"
+
+
+            android:textSize="27sp" />
+
+
+
+    </LinearLayout>
+
+
+
+</FrameLayout>
